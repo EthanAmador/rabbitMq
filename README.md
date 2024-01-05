@@ -2,7 +2,7 @@
 
 this is a poc to implement RabbitMq
 
-*_Note:_* to run this project, needs to a RabbitMQ instance or execute the `docketr-file.yml` in the path main. 
+*_Note:_* to run this project, needs to a RabbitMQ instance or execute the `docker-compose.yml` in the path main. 
 
 ```.env
 RABBIT_MQ_HOST=localhost
